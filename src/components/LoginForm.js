@@ -3,7 +3,7 @@ import "./LoginForm.css"
 import Container from 'react-bootstrap/Container';
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form'
-import FormCheckInput from "react-bootstrap/esm/FormCheckInput";
+
 
 
 
@@ -14,7 +14,7 @@ const LoginForm = () => {
         <Container className="page" fluid>
             <Form  className="cover">
               
-            <img src="https://user-images.githubusercontent.com/76559183/110728268-b2e43d00-8257-11eb-838f-d52cd6197d08.png" alt="git"/>
+            <img src="https://user-images.githubusercontent.com/76559183/110728268-b2e43d00-8257-11eb-838f-d52cd6197d08.png" alt="github-logo"/>
             
             <h1>Sign in</h1>
             <lebel htmlFor='email'>Username:</lebel>
